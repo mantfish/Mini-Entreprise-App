@@ -5,12 +5,13 @@
             <panel id="titleBar" height="10%" width="100%" align="center" valign="top" backgroundColor="#BEBEBE" childLayout="center" visibleToMouse="false">
                 <text id="titleText" font="Interface/Fonts/TitleChalk.fnt" color="#000f" text="VR Information App" align="center" valign="center" />
             </panel>
-            <panel id="sideBar" height="70%" width="30%" align="left" valign="bottom" backgroundColor="#FFFFFF" childLayout="center" visibleToMouse="false">
-                <text id="infoText" font="Interface/Fonts/BodyTypewriter.fnt" color="#000f" text="Information text&#10;box" align="center" valign="top" />
-            </panel>
-            <panel id="sideBarTitle" height="10%" width="30%" align="left" valign="bottom" backgroundColor="#BEBEBE" childLayout="center" visibleToMouse="false">
-                <text id="infoText" font="Interface/Fonts/TitleChalk.fnt" color="#000f" text="Information Box" align="center" valign="top" />
+            <panel id="sideBar" height="70%" width="30%" align="left" valign="center" backgroundColor="#FFFFFF" childLayout="vertical" visibleToMouse="false">
+                <panel id="sideBarTitle" height="10%" width="100%" align="left" valign="top" backgroundColor="#BEBEBE" childLayout="center" visibleToMouse="false">
+                    <text id="infoTitle" font="Interface/Fonts/TitleChalk.fnt" color="#000f" text="Information Box" align="center" valign="center" />
+                </panel>
+                <text id="infoText" font="Interface/Fonts/BodyTypewriter.fnt" color="#000f" text="&#10;Information text box" align="center" valign="top" />
             </panel>
         </layer>
     </screen>
 </nifty>
+
