@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-bullet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/MyGame.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/nifty-default-controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/j-ogg-oggd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/nifty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-niftygui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/xmlpull-xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-plugins.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-networking.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/eventbus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/j-ogg-vorbisd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-jogg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-effects.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/jME3-terrain.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/nifty-style-black.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
