@@ -1,0 +1,10 @@
+Material VrHeadsetMaterial : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Textures/WoodTexture.jpg
+        Specular : 0 0 0 0
+        Shininess : 0.0
+     }
+    AdditionalRenderState {
+        FaceCull Back
+    }
+}
