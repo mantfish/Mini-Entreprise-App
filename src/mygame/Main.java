@@ -83,7 +83,7 @@ public class Main extends SimpleApplication implements ActionListener {
     }
 
     public void onAction(String name, boolean isPressed, float tpf) {
-        if (name.equals("leftClick") && isPressed) {
+        if (name.equals("leftClick") && !isPressed) {
             CollisionResults results = new CollisionResults();
             Vector3f click3D = cam.getWorldCoordinates(inputManager.
                     getCursorPosition(),0);
